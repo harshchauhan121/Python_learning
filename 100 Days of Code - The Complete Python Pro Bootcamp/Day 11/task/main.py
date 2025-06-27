@@ -7,6 +7,7 @@ while choice=='y':
     print("\n"*100)
     print(art.logo)
     your_cards=[]
+    #test
     comp_cards=[]
     your_cards.append(random.choice(cards))
     your_cards.append(random.choice(cards))
